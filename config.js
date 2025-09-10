@@ -31,8 +31,8 @@ const portfolioConfig = {
 
     // ===== CONTATOS E REDES SOCIAIS =====
     contatos: {
-        email: "seuemail@exemplo.com",
-        telefone: "+55 (11) 99999-9999",
+        email: "sophialima.tomazo@gmail.com",
+        telefone: "+55 (11) 94148-9684",
         linkedin: "https://linkedin.com/in/seuperfil",
         github: "https://github.com/seuusuario",
         instagram: "https://instagram.com/seuusuario", // Opcional
