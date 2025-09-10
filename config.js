@@ -15,7 +15,7 @@
 const portfolioConfig = {
     // ===== INFORMAÇÕES PESSOAIS =====
     pessoal: {
-        nome: "Seu Nome Completo",
+        nome: "Sophia Lima Gomide Di Tomazo",
         titulo: "Desenvolvedor Frontend", // Ex: "Desenvolvedor Full Stack", "Designer UX/UI"
         descricao: "Apaixonado por tecnologia e sempre em busca de novos desafios. Especializado em criar experiências digitais incríveis.",
         
